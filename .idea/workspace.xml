@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afb0d6b9-7d32-4bc7-93ad-1e022fb1e8c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="go-tech-blog" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hioYlifP2lsQlABW5s97XheJFe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/template" />
+      <recent name="$PROJECT_DIR$/src/css/vendor" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="815" y="-875" key="#GOROOT" timestamp="1600503375208">
+      <screen x="-233" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="815" y="-875" key="#GOROOT/0.0.1440.900/-233.-1080.1920.1080@-233.-1080.1920.1080" timestamp="1600503375208" />
+    <state x="249" y="-922" key="SettingsEditor" timestamp="1600519578188">
+      <screen x="-233" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="249" y="-922" key="SettingsEditor/0.0.1440.900/-233.-1080.1920.1080@-233.-1080.1920.1080" timestamp="1600519578188" />
+    <state x="881" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1600769571607">
+      <screen x="-233" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="881" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-233.-1080.1920.1080@-233.-1080.1920.1080" timestamp="1600769571607" />
+    <state x="945" y="-621" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600515106714">
+      <screen x="-233" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="945" y="-621" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900/-233.-1080.1920.1080@-233.-1080.1920.1080" timestamp="1600515106714" />
+  </component>
+</project>
